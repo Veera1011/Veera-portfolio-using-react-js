@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: '/vp/src/assets/Veeramanikandan 1011 (1).PDF'
+        link: '/Veeramanikandan 1011 (1).PDF'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
